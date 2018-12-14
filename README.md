@@ -1,2 +1,0 @@
-# kozak
-Discord Bot
