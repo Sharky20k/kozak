@@ -19,10 +19,10 @@ client.on('ready', () => {
         guild.channels.forEach((channel) => {
             console.log(` - ${channel.name} ${channel.type} ${channel.id}`)
         })
-        // General channel id: 495679405985759240
+        // General channel id: 522455884060950590
     })
 
-    let generalChannel = client.channels.get("495679405985759240")
+    let generalChannel = client.channels.get("522455884060950590")
     generalChannel.send("Knutobot wbija na serwer. Listę komend znajdziesz pod !komendy")
 
 })
