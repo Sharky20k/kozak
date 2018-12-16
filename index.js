@@ -27,4 +27,4 @@ client.on('ready', () => {
 
 })
 
-client.login("process.env.borek")
+client.login(process.env.borek);
