@@ -27,4 +27,4 @@ client.on('ready', () => {
 
 })
 
-client.login("NTIzMTU3NTY2NDUzNDQ4NzA3.DvVcYg.VVpy58vrO5k7inUTKDpvSEtxYR8")
+client.login("xd")
