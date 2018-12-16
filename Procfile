@@ -1,2 +1,1 @@
-worker: node bot.js
-worker: node coin_flip.js
+worker: node bot.js, borek.js
