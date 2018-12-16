@@ -27,4 +27,11 @@ client.on('ready', () => {
 
 })
 
+client.on('message', function(message){
+    if(message.content == '!siema')
+    {
+        message.channel.send('Siema' + message.author + ',co tam leci?')
+    }
+})
+
 client.login(process.env.BOT_TOKEN);
